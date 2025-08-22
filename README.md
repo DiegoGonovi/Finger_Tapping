@@ -11,3 +11,9 @@ Este proyecto estudia la viabilidad de automatizar el Finger Tapping Test, utili
 └── README.md                         # Presentación del repositorio.            
 
 ```
+## 👥 Autores
+- Diego González Oviño
+- Paula Pena González
+
+## 📄 Licencia
+Proyecto académico de la Universidad Rey Juan Carlos.
